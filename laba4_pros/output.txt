@@ -1,0 +1,2 @@
+Minimum vector: 3, Length: 2.23607
+Maximum vector: 2, Length: 14
